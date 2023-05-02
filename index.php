@@ -40,6 +40,12 @@ li.menuphotos{
     <p><a href="addReservation.php">
       <button style.display='block' class="w3-button w3-black w3-round-xxlarge">reservation</button><a></p>
   </div>
+
+  <div class="w3-display-topright w3-container w3-xlarge">
+    <p><a href="mnglogin.php">
+        <button style.display='block' class="w3-button w3-black w3-round-xxlarge">admin login</button><a></p>
+  </div>
+
   <div class="w3-display-bottomleft w3-container">
     <p class="w3-large">sunday - thursday 8am-9pm | friday & saturday 6.30am-10pm</p>
     <p class="w3-large">Greenspan Mall, Donholm, Nairobi</p>
