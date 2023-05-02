@@ -1,6 +1,7 @@
 # reservation
 Reservation is a web-based application that was created to enable customers make reservations at a restaurant. For this project, picked I used Java House as the restaurant to be used. 
 
+# Images of the user interface
 ![Screenshot (48)](https://user-images.githubusercontent.com/54472430/235782439-72ae7ec5-5007-411f-bcf9-8fb895b8dec9.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/54472430/235782504-0712e84a-d299-4691-b503-7765b0246efe.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/54472430/235782588-76c6e3f3-d20a-4673-ab5f-d4b2a663916b.png)
