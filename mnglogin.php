@@ -34,7 +34,7 @@ session_start(); //session to manage
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
 <div class="container">
-<h3>Manager Login</h3>
+<h3>Admin Login</h3>
 
 <style>
    body{background-image: url("photos/background.png");
