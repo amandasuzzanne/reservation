@@ -1,6 +1,9 @@
 # reservation
 Reservation is a web-based application that was created to enable customers make reservations at a restaurant. For this project, picked I used Java House as the restaurant to be used. 
 
+# Login credentials
+The admin can log in using the following credentials: the username is ***admin*** and the password is ***1234***
+
 # Images of the user interface
 ![Screenshot (48)](https://user-images.githubusercontent.com/54472430/235782439-72ae7ec5-5007-411f-bcf9-8fb895b8dec9.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/54472430/235782504-0712e84a-d299-4691-b503-7765b0246efe.png)
